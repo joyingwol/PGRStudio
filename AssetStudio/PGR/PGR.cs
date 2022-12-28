@@ -11,8 +11,8 @@ namespace AssetStudio
         private static readonly Aes Aes;
         private static readonly string[] Keys =
         {
-            "kurokurokurokuro",
-            "y5XPvqLOrCokWRIa"
+            "ProjectArcheLand",
+            "BlackJackProject"
         };
 
         private static ICryptoTransform Encryptor;
