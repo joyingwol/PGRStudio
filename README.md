@@ -1,7 +1,7 @@
 # PGRStudio - Archeland 1.14 version (Original from https://github.com/Razmoth/PGRStudio )
 Check out the [original AssetStudio project](https://github.com/Perfare/AssetStudio) for more information.
 
-This is the release of PGRStudio, Modded AssetStudio that should work with Punishing: Gray Raven.
+This is the release of PGRStudio, Modded AssetStudio that should work with Archeland 1.14 KR version. (Future should also correspond to the international version.)
 _____________________________________________________________________________________________________________________________
 
 Some features are:
@@ -11,7 +11,7 @@ Some features are:
 - CLI version.
 - Option "Option -> Export Options -> Ignore Controller Animations" to export model/aniamators without including all animations (slow).
 - Load Assets listed in `.txt` file.
-- Support multiple game versions (Currently: "Global, JP"), Option `Options -> Specify Game Version`.
+- Support multiple game versions (Currently: "Global, JP"), Option `Options -> Specify Game Version`. [For this version, please choose 'Global' now]
 ```
 _____________________________________________________________________________________________________________________________
 How to use:
@@ -49,3 +49,4 @@ Looking forward for feedback for issues/bugs to fix and update.
 _____________________________________________________________________________________________________________________________
 Special Thank to:
 - Perfare: Original author.
+- Razmoth: PGRStudio author.
