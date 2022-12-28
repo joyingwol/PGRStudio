@@ -6,7 +6,7 @@ This is the release of PGRStudio, Modded AssetStudio that should work with Arche
 To download the package, please check <https://github.com/joyingwol/PGRStudio/actions/workflows/build.yml> and click `view workflow file` at marked place.
 Then click `Summary` at the left side and download the file at `Artifacts`.
 
-!()[https://i.imgur.com/a/6DbaovM.png]
+![][https://i.imgur.com/a/6DbaovM.png]
 _____________________________________________________________________________________________________________________________
 
 Some features are:
