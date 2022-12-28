@@ -2,6 +2,11 @@
 Check out the [original AssetStudio project](https://github.com/Perfare/AssetStudio) for more information.
 
 This is the release of PGRStudio, Modded AssetStudio that should work with Archeland 1.14 KR version. (Future should also correspond to the international version.)
+
+To download the package, please check <https://github.com/joyingwol/PGRStudio/actions/workflows/build.yml> and click `view workflow file` at marked place.
+Then click `Summary` at the left side and download the file at `Artifacts`.
+
+!()[https://i.imgur.com/a/6DbaovM.png]
 _____________________________________________________________________________________________________________________________
 
 Some features are:
