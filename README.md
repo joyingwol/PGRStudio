@@ -1,5 +1,6 @@
 # PGRStudio - Archeland 1.14 version (Original from https://github.com/Razmoth/PGRStudio )
 Check out the [original AssetStudio project](https://github.com/Perfare/AssetStudio) for more information.
+Recommend <https://github.com/RazTools/Studio> now ,it includes all of the keys.
 
 This is the release of PGRStudio, Modded AssetStudio that should work with Archeland 1.14 KR version. (Future should also correspond to the international version.)
 
